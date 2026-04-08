@@ -2,7 +2,7 @@
   "name": "my-skill",
   "displayName": "My Awesome Skill",
   "description": "一句话描述技能功能",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "your-name",
   "categories": ["networking", "automation"]
 }
